@@ -13,6 +13,10 @@ A final-year project for measuring water flow across multiple pipes and monitori
 
 All components are included directly in this repository.
 
+## Prototype
+
+![Smart water monitoring system prototype with pipes, flow sensors, and controller boards](Picture1.jpg)
+
 ## Local configuration
 
 - **ESP8266 firmware:** Copy `sketch_apr5b/secrets.example.h` to `sketch_apr5b/secrets.h`, then set the Wi-Fi name, password, and backend URL. `secrets.h` is ignored by Git.
