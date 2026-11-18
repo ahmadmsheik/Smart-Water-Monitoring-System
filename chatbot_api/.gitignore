@@ -1,0 +1,11 @@
+chroma_db
+data
+venv
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

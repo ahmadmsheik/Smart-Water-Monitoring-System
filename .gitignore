@@ -1,0 +1,50 @@
+# Python environments and generated files
+**/.venv/
+**/venv/
+**/env/
+**/__pycache__/
+*.py[cod]
+*.pyd
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+
+# Local environment and credentials
+.env
+.env.*
+!**/.env.example
+sketch_apr5b/secrets.h
+**/*firebase-adminsdk*.json
+**/*service-account*.json
+**/*serviceAccount*.json
+
+# Generated chatbot vector index
+/chatbot_api/chroma_db/
+/chatbot_api/data/
+
+# Flutter, Dart, Android, and IDE output
+**/.dart_tool/
+**/build/
+**/.gradle/
+**/dart_defines.json
+**/android/local.properties
+**/*.iml
+**/.idea/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ephemeral/
+
+# Local backend data
+/server/anomalies_output.json
+/server/water_usage.db
+
+# KiCad local settings and automatic backups
+**/*.kicad_prl
+**/*-backups/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.swp

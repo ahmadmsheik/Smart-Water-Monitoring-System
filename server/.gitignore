@@ -1,0 +1,14 @@
+venv
+
+# Local environment and Firebase Admin credentials
+.env
+.env.*
+!**/.env.example
+*firebase-adminsdk*.json
+*service-account*.json
+*serviceAccount*.json
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyd

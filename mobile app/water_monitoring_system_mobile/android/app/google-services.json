@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493203720733",
+    "project_id": "shwms-b7382",
+    "storage_bucket": "shwms-b7382.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493203720733:android:b5af3a7dcd4f94b76fd4f4",
+        "android_client_info": {
+          "package_name": "com.example.water_monitoring_system_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCajNyNFypDJ5XTtCzgEJqObkYYkmONifQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
